@@ -7,6 +7,6 @@ This project is an excellent opportunity to learn and practice basic React funct
 using the useState hook, and working with components.
 
 Happy coding!
-If you have any questions or need further assistance, feel free to open an issue or contact the project maintainer.
+If you have any questions or need further assistance, feel free to open an issue 
 
 ![image](https://github.com/manya16102003/planWithManya/assets/123743851/31e00b5d-e743-4792-9dc3-c66e91778dbf)
