@@ -6,7 +6,7 @@ This simple yet informative React application allows users to explore various tr
 This project is an excellent opportunity to learn and practice basic React functionalities like fetching data from an API, 
 using the useState hook, and working with components.
 
-Happy coding!
+Happy Learning & Keep coding!
 If you have any questions or need further assistance, feel free to open an issue 
 
 ![image](https://github.com/manya16102003/planWithManya/assets/123743851/31e00b5d-e743-4792-9dc3-c66e91778dbf)
