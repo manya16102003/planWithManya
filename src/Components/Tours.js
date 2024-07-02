@@ -1,4 +1,5 @@
 import Card from "./Card";
+//props u r passing should have the same name 
 function Tours({tours , removeTour })
 {
     return(
